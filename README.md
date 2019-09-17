@@ -1,6 +1,5 @@
 # Workspace
-EQUIPO DE MEDICIÓN DE BATERÍA Y
-ALERTA TEMPRANA PARA RADIOGRAFO MÓVIL
+Battery level metter and alarm system for mobile radiography device
 
 ## Developers
 Pedro Wozniak pwozniaklorice@est.frba.utn.edu.ar
